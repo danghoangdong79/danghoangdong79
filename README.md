@@ -1,19 +1,22 @@
-# 👋 Xin chào, tôi là Dahodo
+# 👋 Hi, I'm Dahodo
 
-## 🚀 Về tôi
-- 💼 Chuyên về automation và tối ưu quy trình làm việc
-- 🔧 Công cụ chính: **n8n**, **Google Apps Script**, **Google Sheets**
-- 🎯 Đam mê: Tự động hóa các tác vụ lặp đi lặp lại, giúp tiết kiệm thời gian
+## 🚀 About Me
+- 💼 Specializing in automation and workflow optimization
+- 🔧 Main tools: **n8n**, **Google Apps Script**, **Google Sheets**
+- 🎯 Passion: Automating repetitive tasks to save time and boost productivity
 
-## 🛠️ Công nghệ & Công cụ
+## 🛠️ Tech Stack & Tools
 - **Workflow Automation**: n8n
 - **Scripting**: Google Apps Script, JavaScript
 - **Data**: Google Sheets, Spreadsheet automation
 - **Integration**: API, Webhooks
 
-## 📫 Liên hệ
+## 📫 Connect
 - Website: [dahodo.com](https://dahodo.com)
 - Location: Vietnam
 
 ---
-💡 *"Tự động hóa những gì có thể, tập trung vào những gì quan trọng"*
+💡 *"Automate what you can, focus on what matters"*
+
+---
+🇻🇳 *Chuyên về tự động hóa quy trình làm việc với n8n và Google Apps Script*
