@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Xin chào, tôi là Dahodo
 
-<!--
-**danghoangdong79/danghoangdong79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Về tôi
+- 💼 Chuyên về automation và tối ưu quy trình làm việc
+- 🔧 Công cụ chính: **n8n**, **Google Apps Script**, **Google Sheets**
+- 🎯 Đam mê: Tự động hóa các tác vụ lặp đi lặp lại, giúp tiết kiệm thời gian
 
-Here are some ideas to get you started:
+## 🛠️ Công nghệ & Công cụ
+- **Workflow Automation**: n8n
+- **Scripting**: Google Apps Script, JavaScript
+- **Data**: Google Sheets, Spreadsheet automation
+- **Integration**: API, Webhooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Liên hệ
+- Website: [dahodo.com](https://dahodo.com)
+- Location: Vietnam
+
+---
+💡 *"Tự động hóa những gì có thể, tập trung vào những gì quan trọng"*
